@@ -1,5 +1,5 @@
 # Greetings!
-Shows you the greeting according to time. 😊
+Shows you the date as well as the greeting according to time. 😊
 
 ## Technologies Used 
 - HTML
