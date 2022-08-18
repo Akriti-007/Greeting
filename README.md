@@ -5,6 +5,7 @@ Shows you the date as well as the greeting according to time. 😊
 - HTML
 - CSS
 - JAVASCRIPT
+- REACT
 
      
 
